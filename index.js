@@ -1,7 +1,7 @@
 // Get options
 var prefs = {
-  host : "http://localhost:8000",
-  ws_host : "ws://localhost:8000",
+  host : "http://ss.fishioon.com:8000",
+  ws_host : "ws://ss.fishioon.com:8000",
   defaultfontSize : 48,
   showAllMessages : false,
   showMyMessages : false,
